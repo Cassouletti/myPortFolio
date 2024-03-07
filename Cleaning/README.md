@@ -1,4 +1,4 @@
-#Fichier "cleaning"
+# Fichier "cleaning"
 Le fichier "cleaning" contient trois projets simples de nettoyage de données distincts réalisés dans le cadre de ma récente formation.
 
 Projet 1 : Gestion des données manquantes pour une société de prêt
